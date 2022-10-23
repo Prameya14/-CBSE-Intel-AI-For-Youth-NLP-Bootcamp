@@ -22,8 +22,24 @@ ___
 ___
 ### Day 6
 #### Resource Folder: <https://github.com/Prameya14/CBSE-Intel-AI-For-Youth-NLP-Bootcamp/blob/master/Solved%20Notebooks/DAY%205/5.3%20Resources.md>
-#### Session Record: N.A
+#### Session Record: <https://youtu.be/0CDDxrg5d_8>
 ___
 ### Day 7
 #### Resource Folder: <https://classroom.google.com/u/0/c/NTAyNDYyNjA3NTI4/a/NTAyODQxMzAwNDY1/details>
+#### Session Record: <https://youtu.be/dnyry5j9OUE>
+___
+### Day 8
+#### Resource Folder: <https://classroom.google.com/u/0/c/NTAyNDYyNjA3NTI4/a/NTAyODQxMzAwNDY1/details>
+#### Session Record: <https://youtu.be/Tj3UR-yGvlI>
+___
+### Day 9
+#### Resource Folder: <https://classroom.google.com/u/0/c/NTAyNDYyNjA3NTI4/a/NTAyODQxMzAwNDY1/details>
 #### Session Record: N.A
+___
+### Day 10
+#### Resource Folder: <https://classroom.google.com/u/0/c/NTAyNDYyNjA3NTI4/a/NTU2ODk2OTgzMDk1/details>
+#### Session Record: <https://youtu.be/gzZYpY2KEHs>
+___
+### Day 11
+#### Resource Folder: <https://classroom.google.com/u/0/c/NTAyNDYyNjA3NTI4/a/NTU2ODk2OTgzMDk1/details>
+#### Session Record: <https://youtu.be/6lP3tDX2sJk>
